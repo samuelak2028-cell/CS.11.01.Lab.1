@@ -9,4 +9,3 @@ public class Dateable {
         System.out.println(age + "-year olds should date somebody who is at least " + dateAge + " years old.");
     }
 }
-d
